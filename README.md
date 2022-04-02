@@ -43,7 +43,7 @@ The following **optional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I used w3schools.com as an HTML/CSS reference
+I used w3schools.com as a reference for HTML and CSS. I also used Stack Overflow to make sure my syntax for the markdown file was correct.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 I encountered a couple challenges when creating this submission. The main one was a roadblock I had trying to make and upload the gif. I started out using quicktime for macOS and trying to use ezgif.com to convert the video to a gif. The length of the video I had was too long to be exported so I ended up having to speed it up and create a gif out of that. Before I figured that I had to speed it up, I tried going to a different gif conversion website like adobe and onlineconverter. These didn’t work for me or have as many features that I needed. After looking at those options I tried to just download the recordit app for my mac but that wasn’t working properly either. It was working so poorly that I ended up having to restart my mac because the recordit app just wouldn’t quit and it wouldn’t show up in the list of my apps so I couldn’t force quit it either. After this whole saga is when I then retreated back to using quicktime coupled with ezgif. This definitely taught me a valuable lesson about patience. If I had waited and just tried to figure out ezgif the first time, I would not have had to go through all this.
